@@ -1,0 +1,15 @@
+BasedOnStyle: LLVM
+AlignConsecutiveAssignments: true
+AlignTrailingComments: true
+AlignConsecutiveMacros: Consecutive
+AllowShortLoopsOnASingleLine: true
+AllowShortBlocksOnASingleLine: true
+BreakBeforeBraces: Attach
+ColumnLimit: 0
+IndentWidth: 4
+PointerAlignment: Left
+SpaceBeforeParens: Never
+SpacesBeforeTrailingComments: 8
+SpacesInSquareBrackets: false
+TabWidth: 4
+UseTab: Always
