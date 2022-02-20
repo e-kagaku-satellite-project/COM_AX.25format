@@ -8,5 +8,9 @@
 	"editor.renderWhitespace": "all",
 	"editor.wordWrap": "off",
 	"editor.insertSpaces": false,
-	"editor.formatOnSave": true
+	"editor.formatOnSave": true,
+	"files.associations": {
+		"xstring": "c",
+		"xutility": "c"
+	}
 }
